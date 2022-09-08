@@ -1,0 +1,9 @@
+{
+	"ip":"DarkNightHeroSMP.aternos.me",
+	"port": 26646,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (botme111)",
+	"login-cmd":"/login (botme111)"
+}
